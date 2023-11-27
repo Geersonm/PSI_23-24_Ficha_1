@@ -8,46 +8,46 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Gerson 
 
 ## E1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
+        Sim
+    2 - (Instâncias) definem o que algo pode fazer e guardar, enquanto uma
+        (classe) é um objeto específico que contém o seu próprio estado 
         (Apaga a opção entre parênteses errada)
     3 - Indica três tipos de membros que podem pertencer a uma classe 
-        ...
+        Variaveis, métodos e construtores.
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
-        ...
+        Sim
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+        Se chamam construtores.
     6 - De onde podes aceder a algo private? 
-        ...
+         Dentro da classe.
     7 - De onde podes aceder a algo public? 
-        ... 
+        A partir de qualquer sítio.
     8 - De onde podes aceder a algo internal? 
-        ...
+        Dentro do mesmo projeto.
 
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+        São categorias gerais de objetos
     2 - Objeto / instância
-        ...
+        São casos específicos de objetos
     3 - Método
-        ...
+        Permitem que código externo manipule instâncias.
     4 - Construtor
-        ...
+        Inicializam estado de novas instâncias.
     5 - Variável de instância
-        ...
+        Uma variável de instância é uma variável que pertence a uma instância específica de uma classe.
     6 - Variável local
-        ...
+        uma variável local é uma variável declarada dentro de um bloco de código.
     7 - Overloading
-        ...
+        O overloading refere-se à capacidade de ter múltiplas versões de um método.
     8 - Encapsulação
-        ...
+        É um conceito que envolve o agruoamento de dados.
 
 ## E3 - Cria o seguinte programa de consola (12v)
 
